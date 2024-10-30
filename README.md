@@ -1,9 +1,9 @@
 
-# React Paste Manager
+# Notes Saver Application
 
 [Live Demo](https://react-paste-manager.vercel.app/)
 
-**React Paste Manager** is a web application built with React, designed to help users save, view, and manage text snippets with ease. This tool is perfect for organizing frequently used text and quickly retrieving it when needed.
+**Notes Saver Application** is a web application built with React, designed to help users save, view, and manage text snippets with ease. This tool is perfect for organizing frequently used text and quickly retrieving it when needed.
 
 ## Features
 
@@ -25,7 +25,7 @@ To run this project locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Faizan-Iqbal-07/React-Paste-Manager.git
+   git clone https://github.com/Faizan-Iqbal-07/Notes Saver Application.git
    ```
 
 2. **Navigate to the project directory**:
@@ -54,7 +54,3 @@ To run this project locally:
 2. Add snippets by selecting "Add New".
 3. Manage snippets with options to edit or delete them.
 4. Snippets are saved in local storage, allowing you to retain them across sessions.
-
-## Contributing
-
-Contributions are welcome! To contribute, fork the repository, create a new branch, and submit a pull request with your improvements or suggestions.
