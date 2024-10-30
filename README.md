@@ -1,7 +1,7 @@
 
 # Notes Saver Application
 
-[Live Demo](https://react-paste-manager.vercel.app/)
+[Live Demo](https://notes-saver-application.vercel.app/)
 
 **Notes Saver Application** is a web application built with React, designed to help users save, view, and manage text snippets with ease. This tool is perfect for organizing frequently used text and quickly retrieving it when needed.
 
